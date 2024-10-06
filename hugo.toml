@@ -1,0 +1,7 @@
+baseURL = 'https://trip.831383.xyz/'
+languageCode = 'zh-cn'
+title = 'Family Trip'
+theme = 'cards'
+usePageBundles = true
+[markup.goldmark.renderer]
+unsafe = true

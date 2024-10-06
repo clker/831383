@@ -1,0 +1,6 @@
+public
+public/*
+resources
+resources/*
+.*
+!.gitignore
