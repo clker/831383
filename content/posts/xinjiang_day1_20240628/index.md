@@ -1,7 +1,7 @@
 +++
 title = '新疆游记 Day1 2024-09-28'
 date = 2024-10-05T20:43:32+08:00
-draft = true
+draft = false
 img = '0628-cover.jpg'
 +++
 
